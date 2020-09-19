@@ -1,0 +1,1 @@
+Languages used:  HTML, CSS, JavaScript, jQuery.  Moment.js used to keep current time and dynamically change html elements.  
